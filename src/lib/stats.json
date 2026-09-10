@@ -1,0 +1,1717 @@
+{
+  "total": 7033,
+  "generated": "2026-09-10",
+  "source": "COV Master List \u2014 all 36 columns, all 6 sheets",
+  "city": {
+    "n": 7033,
+    "parties": {
+      "REP": 3459,
+      "NOPTY": 1946,
+      "DEM": 1546,
+      "LBT": 68,
+      "GRN": 6,
+      "OTHER": 8
+    },
+    "precincts": {
+      "C01": 760,
+      "310": 1,
+      "C02": 627,
+      "C03": 1155,
+      "C04": 1391,
+      "C06": 799,
+      "C07": 302,
+      "C08": 387,
+      "C09": 933,
+      "C11": 678
+    },
+    "avgAge": 53.5,
+    "phones": 4506,
+    "voted2024": 3256,
+    "ageBuckets": {
+      "55-64": 1095,
+      "35-44": 1090,
+      "75+": 1067,
+      "65-74": 1411,
+      "25-34": 943,
+      "18-24": 499,
+      "45-54": 928
+    },
+    "sex": {
+      "F": 3963,
+      "M": 3069,
+      "U": 1
+    },
+    "race": {
+      "W": 5792,
+      "B": 823,
+      "O": 228,
+      "A": 38,
+      "I": 25,
+      "H": 127
+    },
+    "nb": {
+      "River Forest": 610,
+      "District D SW": 23,
+      "Barkley Park": 290,
+      "Oak Alley": 450
+    },
+    "regions": {
+      "River Forest": 741,
+      "Historic core": 1343,
+      "PO Box / mail": 186,
+      "Out of town": 38,
+      "West-central avenues": 884,
+      "Mile Branch": 41,
+      "District D SW": 24,
+      "North grid": 830,
+      "Natchez / Lakewood": 482,
+      "Barkley Park": 304,
+      "Old Landing / river": 269,
+      "Fairgrounds / east side": 434,
+      "Reagan / Hwy 190": 152,
+      "Pine Crest / Parkview": 171,
+      "Covington Point": 644,
+      "Oak Alley": 490
+    },
+    "streets": 331,
+    "households": 3609
+  },
+  "districts": {
+    "A": {
+      "n": 903,
+      "parties": {
+        "DEM": 502,
+        "REP": 147,
+        "NOPTY": 247,
+        "LBT": 7
+      },
+      "precincts": {
+        "C03": 109,
+        "C06": 404,
+        "C07": 235,
+        "C08": 155
+      },
+      "avgAge": 50.1,
+      "phones": 580,
+      "voted2024": 358,
+      "ageBuckets": {
+        "75+": 91,
+        "65-74": 161,
+        "55-64": 147,
+        "35-44": 143,
+        "25-34": 171,
+        "18-24": 71,
+        "45-54": 119
+      },
+      "sex": {
+        "F": 568,
+        "M": 335
+      },
+      "race": {
+        "W": 298,
+        "B": 542,
+        "O": 45,
+        "I": 6,
+        "A": 5,
+        "H": 7
+      },
+      "nb": {},
+      "regions": {
+        "North grid": 650,
+        "PO Box / mail": 79,
+        "Pine Crest / Parkview": 171,
+        "Out of town": 2,
+        "Fairgrounds / east side": 1
+      },
+      "streets": 65,
+      "households": 447
+    },
+    "B": {
+      "n": 1307,
+      "parties": {
+        "DEM": 301,
+        "REP": 640,
+        "NOPTY": 345,
+        "LBT": 16,
+        "GRN": 2,
+        "OTHER": 3
+      },
+      "precincts": {
+        "C08": 188,
+        "C09": 933,
+        "C11": 186
+      },
+      "avgAge": 51.2,
+      "phones": 789,
+      "voted2024": 550,
+      "ageBuckets": {
+        "25-34": 256,
+        "55-64": 211,
+        "35-44": 208,
+        "75+": 179,
+        "65-74": 225,
+        "18-24": 95,
+        "45-54": 133
+      },
+      "sex": {
+        "F": 752,
+        "M": 555
+      },
+      "race": {
+        "B": 189,
+        "W": 1003,
+        "O": 51,
+        "I": 5,
+        "H": 52,
+        "A": 7
+      },
+      "nb": {
+        "River Forest": 1
+      },
+      "regions": {
+        "Out of town": 11,
+        "Fairgrounds / east side": 426,
+        "PO Box / mail": 24,
+        "North grid": 50,
+        "Covington Point": 644,
+        "River Forest": 1,
+        "Reagan / Hwy 190": 151
+      },
+      "streets": 85,
+      "households": 643
+    },
+    "C": {
+      "n": 1623,
+      "parties": {
+        "REP": 928,
+        "NOPTY": 471,
+        "DEM": 203,
+        "LBT": 16,
+        "GRN": 2,
+        "OTHER": 3
+      },
+      "precincts": {
+        "C01": 760,
+        "C06": 371,
+        "C11": 492
+      },
+      "avgAge": 54.7,
+      "phones": 994,
+      "voted2024": 822,
+      "ageBuckets": {
+        "55-64": 214,
+        "35-44": 276,
+        "75+": 287,
+        "65-74": 336,
+        "25-34": 168,
+        "18-24": 107,
+        "45-54": 235
+      },
+      "sex": {
+        "F": 870,
+        "M": 753
+      },
+      "race": {
+        "W": 1476,
+        "B": 61,
+        "O": 47,
+        "A": 12,
+        "I": 4,
+        "H": 23
+      },
+      "nb": {
+        "River Forest": 609,
+        "Barkley Park": 289,
+        "Oak Alley": 450
+      },
+      "regions": {
+        "River Forest": 738,
+        "PO Box / mail": 23,
+        "Out of town": 4,
+        "West-central avenues": 32,
+        "Barkley Park": 303,
+        "North grid": 33,
+        "Oak Alley": 490
+      },
+      "streets": 54,
+      "households": 843
+    },
+    "D": {
+      "n": 1478,
+      "parties": {
+        "REP": 786,
+        "NOPTY": 418,
+        "DEM": 258,
+        "LBT": 14,
+        "GRN": 2
+      },
+      "precincts": {
+        "C02": 341,
+        "C03": 1046,
+        "C06": 24,
+        "C07": 67
+      },
+      "avgAge": 54.9,
+      "phones": 979,
+      "voted2024": 718,
+      "ageBuckets": {
+        "18-24": 82,
+        "45-54": 216,
+        "65-74": 302,
+        "35-44": 253,
+        "55-64": 213,
+        "75+": 249,
+        "25-34": 163
+      },
+      "sex": {
+        "M": 635,
+        "F": 842,
+        "U": 1
+      },
+      "race": {
+        "W": 1394,
+        "I": 2,
+        "H": 31,
+        "O": 26,
+        "B": 18,
+        "A": 7
+      },
+      "nb": {
+        "District D SW": 23,
+        "Barkley Park": 1
+      },
+      "regions": {
+        "West-central avenues": 808,
+        "Historic core": 44,
+        "District D SW": 24,
+        "PO Box / mail": 30,
+        "Out of town": 13,
+        "North grid": 76,
+        "Natchez / Lakewood": 482,
+        "Barkley Park": 1
+      },
+      "streets": 76,
+      "households": 844
+    },
+    "E": {
+      "n": 1722,
+      "parties": {
+        "NOPTY": 465,
+        "REP": 958,
+        "LBT": 15,
+        "DEM": 282,
+        "OTHER": 2
+      },
+      "precincts": {
+        "310": 1,
+        "C02": 286,
+        "C04": 1391,
+        "C08": 44
+      },
+      "avgAge": 54.8,
+      "phones": 1164,
+      "voted2024": 808,
+      "ageBuckets": {
+        "75+": 261,
+        "25-34": 185,
+        "18-24": 144,
+        "65-74": 387,
+        "35-44": 210,
+        "45-54": 225,
+        "55-64": 310
+      },
+      "sex": {
+        "F": 931,
+        "M": 791
+      },
+      "race": {
+        "W": 1621,
+        "O": 59,
+        "B": 13,
+        "A": 7,
+        "H": 14,
+        "I": 8
+      },
+      "nb": {},
+      "regions": {
+        "Historic core": 1299,
+        "West-central avenues": 44,
+        "Mile Branch": 41,
+        "PO Box / mail": 30,
+        "Out of town": 8,
+        "River Forest": 2,
+        "Old Landing / river": 269,
+        "Fairgrounds / east side": 7,
+        "North grid": 21,
+        "Reagan / Hwy 190": 1
+      },
+      "streets": 102,
+      "households": 848
+    }
+  },
+  "precincts": {
+    "310": {
+      "n": 1,
+      "parties": {
+        "NOPTY": 1
+      },
+      "precincts": {
+        "310": 1
+      },
+      "avgAge": 82.0,
+      "phones": 1,
+      "voted2024": 1,
+      "ageBuckets": {
+        "75+": 1
+      },
+      "sex": {
+        "F": 1
+      },
+      "race": {
+        "W": 1
+      },
+      "nb": {},
+      "regions": {
+        "Historic core": 1
+      },
+      "streets": 1,
+      "households": 1
+    },
+    "C01": {
+      "n": 760,
+      "parties": {
+        "REP": 447,
+        "NOPTY": 223,
+        "DEM": 83,
+        "LBT": 5,
+        "GRN": 1,
+        "OTHER": 1
+      },
+      "precincts": {
+        "C01": 760
+      },
+      "avgAge": 55.9,
+      "phones": 526,
+      "voted2024": 375,
+      "ageBuckets": {
+        "55-64": 85,
+        "35-44": 105,
+        "75+": 153,
+        "65-74": 177,
+        "25-34": 81,
+        "18-24": 53,
+        "45-54": 106
+      },
+      "sex": {
+        "F": 396,
+        "M": 364
+      },
+      "race": {
+        "W": 710,
+        "B": 6,
+        "O": 27,
+        "A": 3,
+        "I": 3,
+        "H": 11
+      },
+      "nb": {
+        "River Forest": 609
+      },
+      "regions": {
+        "River Forest": 738,
+        "PO Box / mail": 15,
+        "Out of town": 3,
+        "West-central avenues": 4
+      },
+      "streets": 25,
+      "households": 369
+    },
+    "C02": {
+      "n": 627,
+      "parties": {
+        "REP": 340,
+        "LBT": 9,
+        "DEM": 98,
+        "NOPTY": 180
+      },
+      "precincts": {
+        "C02": 627
+      },
+      "avgAge": 54.4,
+      "phones": 440,
+      "voted2024": 296,
+      "ageBuckets": {
+        "25-34": 78,
+        "18-24": 43,
+        "65-74": 122,
+        "35-44": 91,
+        "75+": 101,
+        "45-54": 86,
+        "55-64": 106
+      },
+      "sex": {
+        "F": 339,
+        "M": 288
+      },
+      "race": {
+        "W": 592,
+        "O": 13,
+        "B": 8,
+        "I": 3,
+        "A": 2,
+        "H": 9
+      },
+      "nb": {
+        "District D SW": 3
+      },
+      "regions": {
+        "Historic core": 226,
+        "West-central avenues": 336,
+        "Mile Branch": 41,
+        "PO Box / mail": 15,
+        "Out of town": 3,
+        "District D SW": 3,
+        "River Forest": 2,
+        "North grid": 1
+      },
+      "streets": 40,
+      "households": 337
+    },
+    "C03": {
+      "n": 1155,
+      "parties": {
+        "NOPTY": 321,
+        "REP": 581,
+        "DEM": 242,
+        "LBT": 10,
+        "GRN": 1
+      },
+      "precincts": {
+        "C03": 1155
+      },
+      "avgAge": 54.1,
+      "phones": 744,
+      "voted2024": 573,
+      "ageBuckets": {
+        "35-44": 210,
+        "65-74": 229,
+        "45-54": 173,
+        "55-64": 157,
+        "18-24": 63,
+        "25-34": 137,
+        "75+": 186
+      },
+      "sex": {
+        "F": 674,
+        "M": 480,
+        "U": 1
+      },
+      "race": {
+        "W": 1026,
+        "O": 26,
+        "H": 24,
+        "B": 70,
+        "A": 7,
+        "I": 2
+      },
+      "nb": {
+        "District D SW": 20,
+        "Barkley Park": 1
+      },
+      "regions": {
+        "West-central avenues": 474,
+        "Natchez / Lakewood": 482,
+        "North grid": 133,
+        "PO Box / mail": 24,
+        "Out of town": 8,
+        "Historic core": 12,
+        "District D SW": 21,
+        "Barkley Park": 1
+      },
+      "streets": 64,
+      "households": 662
+    },
+    "C04": {
+      "n": 1391,
+      "parties": {
+        "DEM": 224,
+        "REP": 783,
+        "NOPTY": 374,
+        "OTHER": 2,
+        "LBT": 8
+      },
+      "precincts": {
+        "C04": 1391
+      },
+      "avgAge": 55.1,
+      "phones": 938,
+      "voted2024": 650,
+      "ageBuckets": {
+        "65-74": 318,
+        "25-34": 142,
+        "55-64": 253,
+        "18-24": 118,
+        "45-54": 183,
+        "35-44": 162,
+        "75+": 215
+      },
+      "sex": {
+        "F": 744,
+        "M": 647
+      },
+      "race": {
+        "W": 1321,
+        "O": 45,
+        "B": 5,
+        "I": 6,
+        "H": 9,
+        "A": 5
+      },
+      "nb": {},
+      "regions": {
+        "Historic core": 1077,
+        "Old Landing / river": 269,
+        "PO Box / mail": 23,
+        "Fairgrounds / east side": 6,
+        "West-central avenues": 1,
+        "North grid": 9,
+        "Out of town": 5,
+        "Reagan / Hwy 190": 1
+      },
+      "streets": 77,
+      "households": 682
+    },
+    "C06": {
+      "n": 799,
+      "parties": {
+        "NOPTY": 227,
+        "DEM": 295,
+        "REP": 266,
+        "LBT": 10,
+        "GRN": 1
+      },
+      "precincts": {
+        "C06": 799
+      },
+      "avgAge": 51.2,
+      "phones": 514,
+      "voted2024": 350,
+      "ageBuckets": {
+        "18-24": 68,
+        "35-44": 136,
+        "55-64": 107,
+        "65-74": 144,
+        "45-54": 131,
+        "25-34": 115,
+        "75+": 98
+      },
+      "sex": {
+        "F": 490,
+        "M": 309
+      },
+      "race": {
+        "B": 285,
+        "W": 466,
+        "O": 27,
+        "A": 9,
+        "I": 4,
+        "H": 8
+      },
+      "nb": {
+        "Barkley Park": 289
+      },
+      "regions": {
+        "North grid": 241,
+        "PO Box / mail": 40,
+        "Pine Crest / Parkview": 171,
+        "Barkley Park": 303,
+        "West-central avenues": 40,
+        "Out of town": 4
+      },
+      "streets": 49,
+      "households": 420
+    },
+    "C07": {
+      "n": 302,
+      "parties": {
+        "NOPTY": 82,
+        "DEM": 141,
+        "REP": 78,
+        "GRN": 1
+      },
+      "precincts": {
+        "C07": 302
+      },
+      "avgAge": 53.1,
+      "phones": 180,
+      "voted2024": 123,
+      "ageBuckets": {
+        "65-74": 67,
+        "55-64": 58,
+        "75+": 35,
+        "45-54": 32,
+        "25-34": 49,
+        "35-44": 43,
+        "18-24": 18
+      },
+      "sex": {
+        "M": 126,
+        "F": 176
+      },
+      "race": {
+        "A": 1,
+        "W": 175,
+        "B": 111,
+        "H": 5,
+        "O": 9,
+        "I": 1
+      },
+      "nb": {},
+      "regions": {
+        "North grid": 253,
+        "PO Box / mail": 18,
+        "West-central avenues": 29,
+        "Out of town": 2
+      },
+      "streets": 28,
+      "households": 155
+    },
+    "C08": {
+      "n": 387,
+      "parties": {
+        "REP": 127,
+        "LBT": 11,
+        "NOPTY": 101,
+        "DEM": 148
+      },
+      "precincts": {
+        "C08": 387
+      },
+      "avgAge": 55.1,
+      "phones": 269,
+      "voted2024": 130,
+      "ageBuckets": {
+        "75+": 71,
+        "35-44": 46,
+        "65-74": 74,
+        "55-64": 77,
+        "25-34": 68,
+        "45-54": 30,
+        "18-24": 21
+      },
+      "sex": {
+        "F": 235,
+        "M": 152
+      },
+      "race": {
+        "W": 223,
+        "O": 20,
+        "B": 137,
+        "I": 2,
+        "H": 4,
+        "A": 1
+      },
+      "nb": {},
+      "regions": {
+        "North grid": 188,
+        "Historic core": 27,
+        "Out of town": 4,
+        "PO Box / mail": 31,
+        "Fairgrounds / east side": 137
+      },
+      "streets": 51,
+      "households": 195
+    },
+    "C09": {
+      "n": 933,
+      "parties": {
+        "NOPTY": 229,
+        "REP": 481,
+        "DEM": 210,
+        "GRN": 2,
+        "LBT": 9,
+        "OTHER": 2
+      },
+      "precincts": {
+        "C09": 933
+      },
+      "avgAge": 52.2,
+      "phones": 556,
+      "voted2024": 409,
+      "ageBuckets": {
+        "35-44": 158,
+        "55-64": 147,
+        "45-54": 97,
+        "75+": 133,
+        "65-74": 176,
+        "25-34": 160,
+        "18-24": 62
+      },
+      "sex": {
+        "M": 409,
+        "F": 524
+      },
+      "race": {
+        "H": 43,
+        "W": 728,
+        "O": 32,
+        "B": 123,
+        "A": 5,
+        "I": 2
+      },
+      "nb": {
+        "River Forest": 1
+      },
+      "regions": {
+        "Covington Point": 644,
+        "Fairgrounds / east side": 263,
+        "PO Box / mail": 18,
+        "North grid": 5,
+        "River Forest": 1,
+        "Out of town": 2
+      },
+      "streets": 49,
+      "households": 499
+    },
+    "C11": {
+      "n": 678,
+      "parties": {
+        "DEM": 105,
+        "NOPTY": 208,
+        "REP": 356,
+        "LBT": 6,
+        "OTHER": 3
+      },
+      "precincts": {
+        "C11": 678
+      },
+      "avgAge": 49.8,
+      "phones": 338,
+      "voted2024": 349,
+      "ageBuckets": {
+        "55-64": 105,
+        "65-74": 104,
+        "25-34": 113,
+        "35-44": 139,
+        "18-24": 53,
+        "45-54": 90,
+        "75+": 74
+      },
+      "sex": {
+        "F": 384,
+        "M": 294
+      },
+      "race": {
+        "B": 78,
+        "W": 550,
+        "O": 29,
+        "I": 2,
+        "A": 5,
+        "H": 14
+      },
+      "nb": {
+        "Oak Alley": 450
+      },
+      "regions": {
+        "Reagan / Hwy 190": 151,
+        "Oak Alley": 490,
+        "Fairgrounds / east side": 28,
+        "PO Box / mail": 2,
+        "Out of town": 7
+      },
+      "streets": 27,
+      "households": 314
+    }
+  },
+  "neighborhoods": {
+    "Barkley Park": {
+      "n": 290,
+      "parties": {
+        "REP": 161,
+        "DEM": 38,
+        "NOPTY": 86,
+        "LBT": 4,
+        "GRN": 1
+      },
+      "precincts": {
+        "C03": 1,
+        "C06": 289
+      },
+      "avgAge": 54.4,
+      "phones": 181,
+      "voted2024": 132,
+      "ageBuckets": {
+        "18-24": 22,
+        "45-54": 49,
+        "65-74": 49,
+        "75+": 60,
+        "55-64": 28,
+        "35-44": 55,
+        "25-34": 27
+      },
+      "sex": {
+        "F": 161,
+        "M": 129
+      },
+      "race": {
+        "W": 272,
+        "B": 4,
+        "H": 5,
+        "I": 1,
+        "O": 3,
+        "A": 5
+      },
+      "nb": {
+        "Barkley Park": 290
+      },
+      "regions": {
+        "Barkley Park": 290
+      },
+      "streets": 7,
+      "households": 163
+    },
+    "District D SW": {
+      "n": 23,
+      "parties": {
+        "DEM": 2,
+        "REP": 17,
+        "NOPTY": 4
+      },
+      "precincts": {
+        "C02": 3,
+        "C03": 20
+      },
+      "avgAge": 45.7,
+      "phones": 12,
+      "voted2024": 11,
+      "ageBuckets": {
+        "55-64": 3,
+        "65-74": 4,
+        "25-34": 5,
+        "45-54": 5,
+        "35-44": 4,
+        "18-24": 2
+      },
+      "sex": {
+        "F": 15,
+        "M": 8
+      },
+      "race": {
+        "W": 22,
+        "O": 1
+      },
+      "nb": {
+        "District D SW": 23
+      },
+      "regions": {
+        "District D SW": 23
+      },
+      "streets": 1,
+      "households": 13
+    },
+    "Oak Alley": {
+      "n": 450,
+      "parties": {
+        "NOPTY": 124,
+        "DEM": 50,
+        "REP": 270,
+        "LBT": 4,
+        "OTHER": 2
+      },
+      "precincts": {
+        "C11": 450
+      },
+      "avgAge": 53.3,
+      "phones": 214,
+      "voted2024": 255,
+      "ageBuckets": {
+        "55-64": 69,
+        "35-44": 95,
+        "65-74": 84,
+        "45-54": 67,
+        "18-24": 26,
+        "25-34": 44,
+        "75+": 65
+      },
+      "sex": {
+        "F": 241,
+        "M": 209
+      },
+      "race": {
+        "W": 408,
+        "B": 22,
+        "A": 3,
+        "O": 12,
+        "H": 5
+      },
+      "nb": {
+        "Oak Alley": 450
+      },
+      "regions": {
+        "Oak Alley": 450
+      },
+      "streets": 11,
+      "households": 243
+    },
+    "River Forest": {
+      "n": 610,
+      "parties": {
+        "REP": 349,
+        "NOPTY": 186,
+        "DEM": 69,
+        "LBT": 5,
+        "GRN": 1
+      },
+      "precincts": {
+        "C01": 609,
+        "C09": 1
+      },
+      "avgAge": 56.1,
+      "phones": 426,
+      "voted2024": 305,
+      "ageBuckets": {
+        "55-64": 69,
+        "35-44": 76,
+        "75+": 128,
+        "65-74": 140,
+        "25-34": 64,
+        "18-24": 47,
+        "45-54": 86
+      },
+      "sex": {
+        "F": 319,
+        "M": 291
+      },
+      "race": {
+        "W": 566,
+        "B": 6,
+        "O": 23,
+        "A": 3,
+        "I": 2,
+        "H": 10
+      },
+      "nb": {
+        "River Forest": 610
+      },
+      "regions": {
+        "River Forest": 610
+      },
+      "streets": 14,
+      "households": 301
+    }
+  },
+  "regions": {
+    "Historic core": {
+      "n": 1343,
+      "parties": {
+        "NOPTY": 370,
+        "REP": 727,
+        "LBT": 9,
+        "DEM": 236,
+        "OTHER": 1
+      },
+      "precincts": {
+        "310": 1,
+        "C02": 226,
+        "C03": 12,
+        "C04": 1077,
+        "C08": 27
+      },
+      "avgAge": 55.2,
+      "phones": 907,
+      "voted2024": 615,
+      "ageBuckets": {
+        "75+": 208,
+        "25-34": 147,
+        "18-24": 95,
+        "65-74": 307,
+        "55-64": 247,
+        "45-54": 167,
+        "35-44": 172
+      },
+      "sex": {
+        "F": 731,
+        "M": 612
+      },
+      "race": {
+        "W": 1261,
+        "O": 46,
+        "B": 11,
+        "A": 7,
+        "H": 12,
+        "I": 6
+      },
+      "nb": {},
+      "regions": {
+        "Historic core": 1343
+      },
+      "streets": 63,
+      "households": 677
+    },
+    "West-central avenues": {
+      "n": 884,
+      "parties": {
+        "REP": 444,
+        "NOPTY": 262,
+        "DEM": 166,
+        "LBT": 11,
+        "GRN": 1
+      },
+      "precincts": {
+        "C01": 4,
+        "C02": 336,
+        "C03": 474,
+        "C04": 1,
+        "C06": 40,
+        "C07": 29
+      },
+      "avgAge": 54.4,
+      "phones": 597,
+      "voted2024": 407,
+      "ageBuckets": {
+        "25-34": 103,
+        "55-64": 131,
+        "45-54": 130,
+        "35-44": 146,
+        "18-24": 55,
+        "65-74": 174,
+        "75+": 145
+      },
+      "sex": {
+        "M": 388,
+        "F": 495,
+        "U": 1
+      },
+      "race": {
+        "W": 838,
+        "O": 17,
+        "H": 18,
+        "B": 9,
+        "I": 1,
+        "A": 1
+      },
+      "nb": {},
+      "regions": {
+        "West-central avenues": 884
+      },
+      "streets": 30,
+      "households": 487
+    },
+    "North grid": {
+      "n": 830,
+      "parties": {
+        "NOPTY": 228,
+        "REP": 170,
+        "DEM": 423,
+        "LBT": 9
+      },
+      "precincts": {
+        "C02": 1,
+        "C03": 133,
+        "C04": 9,
+        "C06": 241,
+        "C07": 253,
+        "C08": 188,
+        "C09": 5
+      },
+      "avgAge": 51.4,
+      "phones": 530,
+      "voted2024": 319,
+      "ageBuckets": {
+        "35-44": 125,
+        "55-64": 152,
+        "18-24": 54,
+        "75+": 89,
+        "65-74": 162,
+        "25-34": 154,
+        "45-54": 94
+      },
+      "sex": {
+        "M": 330,
+        "F": 500
+      },
+      "race": {
+        "W": 365,
+        "B": 411,
+        "O": 37,
+        "I": 3,
+        "A": 6,
+        "H": 8
+      },
+      "nb": {},
+      "regions": {
+        "North grid": 830
+      },
+      "streets": 44,
+      "households": 471
+    },
+    "River Forest": {
+      "n": 741,
+      "parties": {
+        "REP": 434,
+        "NOPTY": 220,
+        "DEM": 81,
+        "LBT": 5,
+        "GRN": 1
+      },
+      "precincts": {
+        "C01": 738,
+        "C02": 2,
+        "C09": 1
+      },
+      "avgAge": 55.7,
+      "phones": 512,
+      "voted2024": 369,
+      "ageBuckets": {
+        "55-64": 80,
+        "35-44": 106,
+        "75+": 148,
+        "65-74": 174,
+        "25-34": 79,
+        "18-24": 53,
+        "45-54": 101
+      },
+      "sex": {
+        "F": 387,
+        "M": 354
+      },
+      "race": {
+        "W": 693,
+        "B": 6,
+        "O": 25,
+        "A": 3,
+        "I": 3,
+        "H": 11
+      },
+      "nb": {
+        "River Forest": 610
+      },
+      "regions": {
+        "River Forest": 741
+      },
+      "streets": 20,
+      "households": 363
+    },
+    "Covington Point": {
+      "n": 644,
+      "parties": {
+        "NOPTY": 151,
+        "REP": 353,
+        "DEM": 133,
+        "LBT": 5,
+        "GRN": 1,
+        "OTHER": 1
+      },
+      "precincts": {
+        "C09": 644
+      },
+      "avgAge": 53.4,
+      "phones": 381,
+      "voted2024": 279,
+      "ageBuckets": {
+        "35-44": 113,
+        "45-54": 62,
+        "55-64": 94,
+        "75+": 110,
+        "25-34": 111,
+        "65-74": 120,
+        "18-24": 34
+      },
+      "sex": {
+        "M": 284,
+        "F": 360
+      },
+      "race": {
+        "H": 35,
+        "W": 521,
+        "B": 61,
+        "O": 20,
+        "A": 5,
+        "I": 2
+      },
+      "nb": {},
+      "regions": {
+        "Covington Point": 644
+      },
+      "streets": 27,
+      "households": 358
+    },
+    "Oak Alley": {
+      "n": 490,
+      "parties": {
+        "NOPTY": 136,
+        "DEM": 54,
+        "REP": 292,
+        "LBT": 6,
+        "OTHER": 2
+      },
+      "precincts": {
+        "C11": 490
+      },
+      "avgAge": 53.4,
+      "phones": 233,
+      "voted2024": 274,
+      "ageBuckets": {
+        "55-64": 82,
+        "35-44": 103,
+        "65-74": 91,
+        "45-54": 70,
+        "18-24": 28,
+        "25-34": 48,
+        "75+": 68
+      },
+      "sex": {
+        "F": 259,
+        "M": 231
+      },
+      "race": {
+        "W": 442,
+        "B": 23,
+        "A": 4,
+        "O": 15,
+        "H": 6
+      },
+      "nb": {
+        "Oak Alley": 450
+      },
+      "regions": {
+        "Oak Alley": 490
+      },
+      "streets": 15,
+      "households": 265
+    },
+    "Natchez / Lakewood": {
+      "n": 482,
+      "parties": {
+        "REP": 280,
+        "DEM": 66,
+        "NOPTY": 131,
+        "LBT": 4,
+        "GRN": 1
+      },
+      "precincts": {
+        "C03": 482
+      },
+      "avgAge": 55.5,
+      "phones": 301,
+      "voted2024": 259,
+      "ageBuckets": {
+        "35-44": 89,
+        "45-54": 76,
+        "65-74": 99,
+        "75+": 84,
+        "25-34": 46,
+        "55-64": 66,
+        "18-24": 22
+      },
+      "sex": {
+        "M": 194,
+        "F": 288
+      },
+      "race": {
+        "W": 458,
+        "H": 8,
+        "B": 5,
+        "O": 8,
+        "A": 3
+      },
+      "nb": {},
+      "regions": {
+        "Natchez / Lakewood": 482
+      },
+      "streets": 14,
+      "households": 296
+    },
+    "Fairgrounds / east side": {
+      "n": 434,
+      "parties": {
+        "REP": 210,
+        "NOPTY": 112,
+        "LBT": 11,
+        "DEM": 99,
+        "GRN": 1,
+        "OTHER": 1
+      },
+      "precincts": {
+        "C04": 6,
+        "C08": 137,
+        "C09": 263,
+        "C11": 28
+      },
+      "avgAge": 51.1,
+      "phones": 278,
+      "voted2024": 179,
+      "ageBuckets": {
+        "18-24": 38,
+        "55-64": 80,
+        "45-54": 50,
+        "25-34": 75,
+        "75+": 49,
+        "65-74": 79,
+        "35-44": 63
+      },
+      "sex": {
+        "M": 189,
+        "F": 245
+      },
+      "race": {
+        "W": 336,
+        "B": 71,
+        "O": 16,
+        "I": 1,
+        "H": 10
+      },
+      "nb": {},
+      "regions": {
+        "Fairgrounds / east side": 434
+      },
+      "streets": 33,
+      "households": 226
+    },
+    "Barkley Park": {
+      "n": 304,
+      "parties": {
+        "REP": 165,
+        "NOPTY": 95,
+        "DEM": 39,
+        "LBT": 4,
+        "GRN": 1
+      },
+      "precincts": {
+        "C03": 1,
+        "C06": 303
+      },
+      "avgAge": 54.3,
+      "phones": 190,
+      "voted2024": 141,
+      "ageBuckets": {
+        "18-24": 24,
+        "55-64": 30,
+        "45-54": 52,
+        "65-74": 53,
+        "75+": 61,
+        "35-44": 57,
+        "25-34": 27
+      },
+      "sex": {
+        "F": 170,
+        "M": 134
+      },
+      "race": {
+        "W": 286,
+        "B": 4,
+        "H": 5,
+        "I": 1,
+        "O": 3,
+        "A": 5
+      },
+      "nb": {
+        "Barkley Park": 290
+      },
+      "regions": {
+        "Barkley Park": 304
+      },
+      "streets": 8,
+      "households": 172
+    },
+    "Old Landing / river": {
+      "n": 269,
+      "parties": {
+        "REP": 184,
+        "NOPTY": 63,
+        "DEM": 19,
+        "LBT": 2,
+        "OTHER": 1
+      },
+      "precincts": {
+        "C04": 269
+      },
+      "avgAge": 53.7,
+      "phones": 183,
+      "voted2024": 144,
+      "ageBuckets": {
+        "65-74": 64,
+        "35-44": 25,
+        "45-54": 39,
+        "55-64": 47,
+        "75+": 35,
+        "18-24": 34,
+        "25-34": 25
+      },
+      "sex": {
+        "M": 129,
+        "F": 140
+      },
+      "race": {
+        "W": 264,
+        "O": 5
+      },
+      "nb": {},
+      "regions": {
+        "Old Landing / river": 269
+      },
+      "streets": 8,
+      "households": 124
+    },
+    "PO Box / mail": {
+      "n": 186,
+      "parties": {
+        "REP": 57,
+        "DEM": 96,
+        "NOPTY": 32,
+        "OTHER": 1
+      },
+      "precincts": {
+        "C01": 15,
+        "C02": 15,
+        "C03": 24,
+        "C04": 23,
+        "C06": 40,
+        "C07": 18,
+        "C08": 31,
+        "C09": 18,
+        "C11": 2
+      },
+      "avgAge": 61.9,
+      "phones": 136,
+      "voted2024": 70,
+      "ageBuckets": {
+        "65-74": 43,
+        "75+": 53,
+        "55-64": 33,
+        "45-54": 21,
+        "25-34": 11,
+        "35-44": 20,
+        "18-24": 5
+      },
+      "sex": {
+        "M": 73,
+        "F": 113
+      },
+      "race": {
+        "W": 89,
+        "O": 8,
+        "I": 1,
+        "A": 1,
+        "B": 87
+      },
+      "nb": {},
+      "regions": {
+        "PO Box / mail": 186
+      },
+      "streets": 11,
+      "households": 11
+    },
+    "Pine Crest / Parkview": {
+      "n": 171,
+      "parties": {
+        "NOPTY": 55,
+        "DEM": 80,
+        "REP": 34,
+        "LBT": 2
+      },
+      "precincts": {
+        "C06": 171
+      },
+      "avgAge": 44.5,
+      "phones": 107,
+      "voted2024": 85,
+      "ageBuckets": {
+        "35-44": 32,
+        "55-64": 17,
+        "45-54": 34,
+        "25-34": 38,
+        "18-24": 21,
+        "75+": 9,
+        "65-74": 20
+      },
+      "sex": {
+        "M": 54,
+        "F": 117
+      },
+      "race": {
+        "B": 93,
+        "W": 61,
+        "A": 2,
+        "I": 3,
+        "O": 11,
+        "H": 1
+      },
+      "nb": {},
+      "regions": {
+        "Pine Crest / Parkview": 171
+      },
+      "streets": 16,
+      "households": 72
+    },
+    "Reagan / Hwy 190": {
+      "n": 152,
+      "parties": {
+        "DEM": 39,
+        "REP": 53,
+        "NOPTY": 59,
+        "OTHER": 1
+      },
+      "precincts": {
+        "C04": 1,
+        "C11": 151
+      },
+      "avgAge": 40.6,
+      "phones": 85,
+      "voted2024": 67,
+      "ageBuckets": {
+        "65-74": 13,
+        "55-64": 22,
+        "25-34": 56,
+        "35-44": 24,
+        "18-24": 20,
+        "45-54": 14,
+        "75+": 3
+      },
+      "sex": {
+        "M": 54,
+        "F": 98
+      },
+      "race": {
+        "W": 92,
+        "B": 37,
+        "O": 14,
+        "I": 2,
+        "H": 6,
+        "A": 1
+      },
+      "nb": {},
+      "regions": {
+        "Reagan / Hwy 190": 152
+      },
+      "streets": 3,
+      "households": 21
+    },
+    "Mile Branch": {
+      "n": 41,
+      "parties": {
+        "NOPTY": 11,
+        "REP": 27,
+        "DEM": 3
+      },
+      "precincts": {
+        "C02": 41
+      },
+      "avgAge": 46.9,
+      "phones": 28,
+      "voted2024": 25,
+      "ageBuckets": {
+        "45-54": 11,
+        "55-64": 7,
+        "35-44": 3,
+        "75+": 2,
+        "65-74": 6,
+        "25-34": 3,
+        "18-24": 9
+      },
+      "sex": {
+        "F": 25,
+        "M": 16
+      },
+      "race": {
+        "W": 34,
+        "O": 1,
+        "B": 2,
+        "H": 2,
+        "I": 2
+      },
+      "nb": {},
+      "regions": {
+        "Mile Branch": 41
+      },
+      "streets": 3,
+      "households": 17
+    },
+    "Out of town": {
+      "n": 38,
+      "parties": {
+        "NOPTY": 17,
+        "REP": 11,
+        "DEM": 10
+      },
+      "precincts": {
+        "C01": 3,
+        "C02": 3,
+        "C03": 8,
+        "C04": 5,
+        "C06": 4,
+        "C07": 2,
+        "C08": 4,
+        "C09": 2,
+        "C11": 7
+      },
+      "avgAge": 40.0,
+      "phones": 26,
+      "voted2024": 11,
+      "ageBuckets": {
+        "75+": 3,
+        "55-64": 4,
+        "45-54": 2,
+        "65-74": 2,
+        "25-34": 15,
+        "35-44": 7,
+        "18-24": 5
+      },
+      "sex": {
+        "F": 20,
+        "M": 18
+      },
+      "race": {
+        "W": 29,
+        "O": 1,
+        "H": 5,
+        "B": 3
+      },
+      "nb": {},
+      "regions": {
+        "Out of town": 38
+      },
+      "streets": 37,
+      "households": 37
+    },
+    "District D SW": {
+      "n": 24,
+      "parties": {
+        "DEM": 2,
+        "REP": 18,
+        "NOPTY": 4
+      },
+      "precincts": {
+        "C02": 3,
+        "C03": 21
+      },
+      "avgAge": 45.5,
+      "phones": 12,
+      "voted2024": 12,
+      "ageBuckets": {
+        "55-64": 3,
+        "65-74": 4,
+        "25-34": 5,
+        "45-54": 5,
+        "35-44": 5,
+        "18-24": 2
+      },
+      "sex": {
+        "F": 15,
+        "M": 9
+      },
+      "race": {
+        "W": 23,
+        "O": 1
+      },
+      "nb": {
+        "District D SW": 23
+      },
+      "regions": {
+        "District D SW": 24
+      },
+      "streets": 1,
+      "households": 13
+    }
+  }
+}

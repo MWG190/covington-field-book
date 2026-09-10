@@ -1,0 +1,16 @@
+node_modules
+_site
+.vercel
+.nitro
+.tanstack
+dist
+coverage
+*.log
+.DS_Store
+.grok/preview.log
+.grok/og-pending
+.grok/*.tmp
+.env
+.env.*
+!.env.example
+scripts/__pycache__

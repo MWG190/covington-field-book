@@ -1,0 +1,99 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Fraunces", ui-serif, Georgia, "Times New Roman", serif;
+  --font-sans: "Source Sans 3", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+
+  --color-paper: #f3efe6;
+  --color-paper-2: #ebe4d4;
+  --color-ink: #1c1b18;
+  --color-ink-soft: #3a3730;
+  --color-muted: #6d675c;
+  --color-faint: #9a9386;
+  --color-line: #d2cbbd;
+  --color-line-strong: #b7b0a2;
+  --color-river: #3e5c56;
+  --color-river-fg: #f3efe6;
+  --color-panel: #faf7f0;
+  --color-danger: #8b3a32;
+  --color-ok: #2f5d42;
+  --color-warn: #8a5a24;
+
+  --color-dist-a: #6f8f4e;
+  --color-dist-b: #8a4e7a;
+  --color-dist-c: #b07a32;
+  --color-dist-d: #4d7c9a;
+  --color-dist-e: #b06b7a;
+
+  --color-party-r: #8a3d38;
+  --color-party-d: #355a8a;
+  --color-party-n: #6d675c;
+
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-xl: 28px;
+}
+
+@layer base {
+  html,
+  body,
+  #app {
+    min-height: 100%;
+  }
+
+  body {
+    margin: 0;
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+
+  * {
+    border-color: var(--color-line);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-river);
+    outline-offset: 2px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+.display {
+  font-family: var(--font-display);
+  letter-spacing: -0.03em;
+  line-height: 1.15;
+}
+
+.turf-map.leaflet-container {
+  background: var(--color-paper-2);
+  font-family: var(--font-sans);
+  z-index: 0;
+}
+
+.turf-map .leaflet-control-attribution {
+  font-size: 10px;
+  background: color-mix(in srgb, var(--color-panel) 88%, transparent);
+}
