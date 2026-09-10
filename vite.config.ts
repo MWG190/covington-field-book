@@ -150,6 +150,9 @@ const pagesDeploy = process.env.PAGES_DEPLOY === "1";
 export default defineConfig(({ command, isPreview }) => ({
   // Relative base so GitHub Pages project URLs load JS/CSS from this folder.
   base: pagesDeploy ? "./" : "/",
+  define: {
+    "import.meta.env.VITE_PAGES_DEPLOY": JSON.stringify(pagesDeploy ? "1" : ""),
+  },
   server: {
     host: "0.0.0.0",
     port: 8080,
@@ -172,7 +175,7 @@ export default defineConfig(({ command, isPreview }) => ({
     tailwindcss(),
     tanstackStart(
       pagesDeploy
-        ? { client: { entry: "./src/client.tsx" } }
+        ? { client: { entry: "./pages-client" } }
         : {},
     ),
     ...(command === "build" || isPreview

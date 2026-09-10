@@ -40,7 +40,6 @@ export const Route = createRootRoute({
             <Outlet />
           </AppShell>
         </AuthProvider>
-        <Scripts />
       </>
     ) : (
     <html lang="en" suppressHydrationWarning>
