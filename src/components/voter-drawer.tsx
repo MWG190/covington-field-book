@@ -57,7 +57,7 @@ export function VoterDrawer({ voter }: { voter: Voter }) {
             <Badge>{voter.pct}</Badge>
             <Badge tone={partyTone(voter.party)}>{partyLabel(voter.party)}</Badge>
             {voter.region ? <Badge>{voter.region}</Badge> : null}
-            {voter.nb.map((n) => (
+            {(voter.nb ?? []).map((n) => (
               <Badge key={n}>{n} sheet</Badge>
             ))}
           </div>

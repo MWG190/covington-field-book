@@ -173,7 +173,7 @@ function Briefing() {
       <section className="grid gap-6">
         <h2 className="display text-2xl">The five districts</h2>
         {DISTRICTS.map((d) => {
-          const ds = stats?.districts[d.id];
+          const ds = stats?.districts?.[d.id];
           return (
             <article
               key={d.id}

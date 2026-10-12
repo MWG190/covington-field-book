@@ -69,7 +69,7 @@ export function AppShell({ children }: { children: ReactNode }) {
 
   return (
     <div className="min-h-dvh bg-paper text-ink">
-      <header className="sticky top-0 z-30 border-b border-line bg-paper/90 backdrop-blur-sm">
+      <header className="sticky top-0 z-30 border-b border-line bg-paper">
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-3 px-4 py-3">
           <Link to="/" className="min-w-0">
             <p className="display text-lg text-ink">Covington Field Book</p>
@@ -117,7 +117,7 @@ export function AppShell({ children }: { children: ReactNode }) {
         </div>
       </header>
       <main className="mx-auto max-w-7xl px-4 pb-24 pt-6 md:pb-12">{children}</main>
-      <nav className="fixed inset-x-0 bottom-0 z-30 border-t border-line bg-paper/95 backdrop-blur-sm md:hidden">
+      <nav className="fixed inset-x-0 bottom-0 z-30 border-t border-line bg-paper md:hidden">
         <div className="grid grid-cols-4">
           {BOOK_NAV.map((item) => {
             const active = pathname === item.to;

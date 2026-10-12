@@ -141,7 +141,11 @@ type Store = {
 };
 
 function persistMarks(marks: Record<string, Mark>) {
-  localStorage.setItem(MARKS_KEY, JSON.stringify(marks));
+  try {
+    localStorage.setItem(MARKS_KEY, JSON.stringify(marks));
+  } catch {
+    // Private mode or a full disk should not take down the page.
+  }
 }
 
 function patchMark(prev: Mark | undefined, patch: Partial<Mark>): Mark {
@@ -240,7 +244,8 @@ export const useVoterStore = create<Store>((set, get) => ({
       set({ error: e instanceof Error ? e.message : "Load failed", loaded: true });
     }
   },
-  setFilter: (k, v) => set((s) => ({ filters: { ...s.filters, [k]: v }, page: 0 })),
+  setFilter: (k, v) =>
+    set((s) => (s.filters[k] === v ? s : { filters: { ...s.filters, [k]: v }, page: 0 })),
   resetFilters: () => set({ filters: defaultFilters, page: 0 }),
   setSort: (k) =>
     set((s) => ({

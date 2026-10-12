@@ -60,7 +60,8 @@ export function TurfMap({ packets, selectedId, onSelect, rows, geo }: Props) {
     const handle = api.current;
     if (!ready || !handle) return;
     const { map, layers, L } = handle;
-    layers.clearLayers();
+    try {
+      layers.clearLayers();
 
     const byId = new Map(rows.map((v) => [v.id, v]));
     packets.forEach((p, i) => {
@@ -123,6 +124,9 @@ export function TurfMap({ packets, selectedId, onSelect, rows, geo }: Props) {
       map.setView([COV_CENTER.lat, COV_CENTER.lng], 13);
     }
     prevSel.current = selectedId;
+    } catch {
+      // A bad coordinate should not unmount the page.
+    }
   }, [ready, packets, selectedId, rows, geo]);
 
   return (
